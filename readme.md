@@ -1,5 +1,11 @@
-Ce repo a pour but de compiler plusieurs notebooks dans lesquels des LLMs sont installés sur Colab ou Kaggle pour faire des **inférences**.
+Ce repo a pour but de compiler des Jupyter Notebooks dans lesquels des LLMs sont installés pour faire des **inférences** .
 Ce repo ne contient pas les notebooks ayant pour but de *finetune* le LLM.
+
+La plupart du temps, nous installons les modèles sur :
+- Colab gratuit,
+- Kaggle gratuit,
+- Sur les machines virtuelles proposées sur AWS SageMaker,
+- Sur les machines virtuelles proposées par GCP.
 
 Il existe sur Github de nombreux repos qui contiennent des notebooks semblables :
 
