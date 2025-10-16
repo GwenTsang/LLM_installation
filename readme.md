@@ -17,3 +17,5 @@ qui installe une version quantizée de Mixtral-8x7B-Instruct-v0.1
 
 https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI/tree/main
 qui répertorie de nombreux notebooks installant des LLMs, la plupart du temps avec `cuda` et en passant par une WebUI.
+
+Il est toujours également possible de passer par la console pour installer ces modèles.
